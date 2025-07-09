@@ -21,7 +21,7 @@ export async function BlogPage() {
 					</h1>
 
 					<p className="text-sm text-gray-600 dark:text-gray-300">
-						Latest updates, articles, and insights about Better Auth
+						Latest updates, articles, and insights about Radas
 					</p>
 					<hr className="h-px bg-gray-300 mt-5" />
 					<div className="mt-8 flex flex-wrap text-gray-600 dark:text-gray-300 gap-x-1 gap-y-3 sm:gap-x-2">
@@ -49,7 +49,7 @@ export async function BlogPage() {
 					</div>
 					<p className="flex items-baseline absolute bottom-4 max-md:left-1/2 max-md:-translate-x-1/2 gap-x-2 text-[0.8125rem]/6 text-gray-500">
 						<IconLink href="https://x.com/better_auth" icon={XIcon} compact>
-							BETTER-AUTH.
+							RADAS.
 						</IconLink>
 					</p>
 				</div>
